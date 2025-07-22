@@ -1,4 +1,3 @@
-
 # About
 We are the 3D Digital Human team from the Tongyi Lab at Alibaba, dedicated to researching and developing intelligent generation and interaction systems for 3D digital humans. 
 
