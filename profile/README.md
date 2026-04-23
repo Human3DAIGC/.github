@@ -2,6 +2,7 @@
 We are the 3D Digital Human team from the Tongyi Lab at Alibaba, dedicated to researching and developing intelligent generation and interaction systems for 3D digital humans. 
 
 # Projects
+- **OMG-Avatar**: One-shot Multi-LOD Gaussian Head Avatar. (CVPR 2026) [Project](https://human3daigc.github.io/OMGAvatar_project_page/),[Code](https://github.com/JianqiangRen/OMG-Avatar)
 - **GlobalDiff**: Mitigating Error Accumulation in Co-Speech Motion Generation via Global Rotation Diffusion and Multi-Level Constraints. (AAAI 2026) [Paper](https://arxiv.org/abs/2511.10076),[Code](https://github.com/Human3DAIGC/GlobalDiff)
 - **CartoonAlive**: Towards Expressive Live2D Modeling from Single Portraits.  [Paper](https://arxiv.org/abs/2507.17327), [Code](https://github.com/Human3DAIGC/CartoonAlive)
 - **EchoMask**: Speech-Queried Attention-based Mask Modeling for Holistic Co-Speech Motion Generation.(ACMMM 2025) [Paper](https://arxiv.org/abs/2504.09209) 
